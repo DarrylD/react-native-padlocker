@@ -1,6 +1,6 @@
 {
     "main": "./padlocker.js",
-    "private": true,
+    "private": false,
     "dependencies": {
         "expo": "^22.0.0",
         "lodash": "^4.17.4",

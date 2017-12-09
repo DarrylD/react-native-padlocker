@@ -1,3 +1,3 @@
 # react-natve-padlocker
 
-`yarn add @DarrylD/react-native-padlocker`
+`yarn add react-native-padlocker`
