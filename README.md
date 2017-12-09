@@ -15,7 +15,7 @@ https://expo.io/@darryld/padlocker-demo
 ## Useage
 
 ```javascript
-;<PadLocker
+<PadLocker
     correctPin={1111}
     backgroundColor="#21ce99"
     handleAfterLock={() => console.log('Unlocked')}
