@@ -12,7 +12,7 @@ Wanted to experiment ways to enter in a pin code.
 
 https://expo.io/@darryld/padlocker-demo
 
-## Useage
+## Usage
 
 ```javascript
 <PadLocker
